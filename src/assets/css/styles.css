@@ -1,0 +1,35 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #599cdf;
+    background-color: #599cdf;
+}
+
+.btn {
+    background: rgb(8, 32, 243);
+}
+
+.btn:hover {
+    background-color: orange;
+}
+
+.btn:active {
+    background-color: red;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: crimson;
+}
+
+@media (max-width: 576px) {
+    .card-columns {
+        padding: 4rem;
+        column-count: 2;
+    }
+}

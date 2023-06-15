@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Etna Pro",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2018/01/etna-x-pro-sin-fondo-2-2048x1367.png",
+      "price": 4800,
+      "desc": "Cuadro: Venzo Etna Pro, monocasco de carbono, 1200 grs aprox; Horquilla: Venzo Etna Pro, monocasco de carbono (rígida); Transmisión: Shimano 105 R7000 (22 velocidades).",
+      "stock": 5
+    },
+    {
+      "name": "Etna x Etna",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2018/01/etna-sin-fondo.png",
+      "price": 4160,
+      "desc": "Cuadro: Venzo Etna Pro, monocasco de carbono, 1200 grs aprox; Horquilla: Venzo Etna Pro, monocasco de carbono (rígida); Transmisión: Shimano Tiagra 4700 (20 velocidades)",
+      "stock": 10
+    },
+    {
+      "name": "Phoenix 700c",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2018/01/phoenix-pro-sin-fondo-2-2048x1367.png",
+      "price": 3500,
+      "desc": "Cuadro: Venzo Phoenix Pro, Aluminio 6061, Horquilla: Venzo Phoenix Pro, Aluminio 6061 (rígida); Transmisión: Shimano Sora R3000 (18 velocidades) / Sensah 16 y 18 velocidades",
+      "stock": 15
+    },
+    {
+      "name": "MTB-X-FORCE",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2020/11/x-force-sin-fondo-2048x1367.png",
+      "price": 2000,
+      "desc": "Cuadro: Venzo X-Force monocasco de carbono 1200 grs aprox - NO BOOST; Frenos: Hidraulicos Shimano; Transmisión: Shimano Deore - 12 Velocidades",
+      "stock": 6
+    },
+    {
+      "name": "MTB-BLAZE",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2017/12/x-blaze-2022-sin-fondo-2048x1367.png",
+      "price": 2300,
+      "desc": "Cuadro: Venzo X-Blaze EX monocasco de carbono 1200 grs aprox - BOOST; Frenos:Shimano SLX M7000; Transmisión:Sram SX - 12 velocidades",
+      "stock": 8
+    },
+    {
+      "name": "MTB-EXCEED",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2017/12/venzo-exceed-2018.png",
+      "price": 1.500000,
+      "desc": "Cuadro: Venzo Exceed de aluminio 6061 para eje trasero de 12 mm BOOST - Con suspensión trasera FOX Float 120mm de recorrido; Shimano Deore - 12 velocidades",
+      "stock": 10
+    },
+    {
+      "name": "MTB-TRAVELER",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2020/11/traveler-sin-fondo-2048x1367.png",
+      "price": 3133,
+      "desc": "Cuadro: Venzo Traveler, aluminio 6061; Frenos:Shimano a disco mecánico; Transmisión: Full Shimano 27 velocidades (opción MTB) / Full Shimano Sora 18 velocidades (opción ruta) ",
+      "stock": 5
+    },
+    {
+      "name": "MTB-ATIX",
+      "img": "https://venzoargentina.com.ar/wp-content/uploads/2017/12/atix-ex-sin-fondo-2048x1367.png",
+      "price": 3750,
+      "desc": "Cuadro: Venzo Atix aluminio 6061, frente integrado (1 1/2 inf. - 1 1/8 sup.); Frenos: Shimano a disco hidráulico ;Transmisión: Shimano Deore 1x12 ",
+      "stock": 4
+    }
+]
