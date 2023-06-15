@@ -32,8 +32,8 @@
         </div>
   
         <template #footer>
-          <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
-            <strong class="mr-auto">Monto Total: </strong>
+          <div class="d-flex bg-dark text-light align-items-center px-3 py-2"> 
+            <strong class="mr-auto">Monto Final: </strong>
             {{ totalPrice | toPrice }}
   
             <b-button @click="buy" id="buy-btn">Pagar</b-button>

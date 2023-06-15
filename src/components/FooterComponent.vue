@@ -3,11 +3,11 @@
       <footer class="footer mt-auto py-3 bg-dark">
         <div class="container">
           <p class="footer-label">
-            <a href="/#">Enterprice</a>
+            <a href="/#">Empresa</a>
             · © 2023 Denis Larrea, Inc. ·
-            <a href="/#">Privacy</a>
+            <a href="/#">Privacidad</a>
             ·
-            <a href="/#">Terms</a>
+            <a href="/#">Terminos y Condiciones</a>
           </p>
         </div>
       </footer>
