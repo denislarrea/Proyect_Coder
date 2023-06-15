@@ -1,6 +1,11 @@
 <template>
   <div id="app">
-    <NavbarComponent @login="onLoginSubmit" :cartQ="cartQuantity" />
+    <NavbarComponent
+      :cartQ="cartQuantity"
+      :logged="logged"
+      @goToLogin="onGoToLogin"
+      @backHome="onBackHome"
+    />
     <div v-if="show">
       <LoginComponent @logged="onLoginSubmit" />
     </div>
@@ -23,6 +28,7 @@ import CarritoComponent from "./components/CarritoComponent.vue";
 import FooterComponent from "./components/FooterComponent.vue";
 import LoginComponent from "./components/LoginComponent.vue";
 //import ServiceComponent from "./components/ServiceComponent.vue";
+ 
 
 //Listado de Productos //
 import items from "@/assets/json/items.json";
@@ -51,8 +57,16 @@ export default {
     },
   },
   methods: {
-    onLoginSubmit(show) {
-      this.show = show;
+    onLoginSubmit(user) {
+      this.show = false;
+      this.logged = true;
+      this.user = user;
+    },
+    onGoToLogin() {
+      this.show = true;
+    },
+    onBackHome() {
+      this.show = false;
     },
     isInCart(i) {
       return this.itemsCarrito.find(({ item }) => item.name === i.name);
